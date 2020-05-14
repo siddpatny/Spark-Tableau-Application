@@ -1,4 +1,4 @@
-# Spark-Tableu-Application
+# Spark-Tableau-Application
 Big Data Application to analyse several large datasets in Apache Spark and visualize the results in Tableau.</br>
 Analyse Cabs Trends with Airports, Events and Businesses in New York City
  
