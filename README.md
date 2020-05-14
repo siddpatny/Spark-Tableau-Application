@@ -1,5 +1,6 @@
-# Big Data Application - Analyse Cabs Trends with Airports, Events and Businesses in New York City
- - Abhinav Gupta (ag7387) and Siddhant Patny (sp5331)</br>
+# Spark-Tableu-Application
+Big Data Application to analyse several large datasets in Apache Spark and visualize the results in Tableau.</br>
+Analyse Cabs Trends with Airports, Events and Businesses in New York City
  
 ### Tools and Framework -
 1) Big data Tools and framework such as Scala with Spark are used to write the code for the application.
